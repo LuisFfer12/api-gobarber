@@ -1,0 +1,2 @@
+# api-gobarber
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4cc21cde0b8d4d809a254b691c8cce42)](https://app.codacy.com/app/LuisFfer12/api-gobarber?utm_source=github.com&utm_medium=referral&utm_content=LuisFfer12/api-gobarber&utm_campaign=Badge_Grade_Dashboard)
